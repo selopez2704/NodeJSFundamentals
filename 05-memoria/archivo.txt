@@ -1,0 +1,9 @@
+hola
+soy
+un
+archivo
+que
+se
+lee
+por
+lineas
